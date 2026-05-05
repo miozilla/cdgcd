@@ -2,7 +2,7 @@
 cdgcd : Continuous Delivery | Google Cloud Deploy, GKE, Skaffold, Release Management, Delivery Pipeline |
 
 
-## Onjectives
+## Objectives
 - Deploy container image to Google Cloud Artifact Registry using Skaffold.
 - Create Google Cloud Deploy delivery pipeline.
 - Create release for delivery pipeline.

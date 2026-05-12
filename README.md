@@ -9,5 +9,6 @@ cdgcd : Continuous Delivery | Google Cloud Deploy, GKE, Skaffold, Release Manage
 - Configure deployment targets across multiple GKE clusters.
 - Promote application through targets in delivery pipeline. Environments (dev → staging → prod)
 - Multicloud Equivalent Services : AWS CodeBuild, Azure Pipelines & GitHub Actions.
+- GKE similar skill sets/services/technologies : EKS, AKS, Kubernetes, k3s, OpenShift, Rancher, MicroK8s, Nomad, Docker Swarm
 
 ## Continuous Delivery with Google Cloud Deploy 
